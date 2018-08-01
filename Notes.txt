@@ -1,0 +1,14 @@
+***IMMEDIATE GOALS***
+-Redesign folder layout (separate maker/game?)
+-Add flexibility to room size, room textures, and texture sizes
+-Enable multi-tile placing ("pour" feature)
+-Finalize room structure
+-NPCs???
+***FUTURE GOALS***
+-Create interactive structures
+-Create interactive items
+-Design rooms
+-Design characters
+-Design mechanics
+
+
